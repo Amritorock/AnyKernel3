@@ -4,7 +4,6 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string="If young Metro dont trust you, Im gon shoot you"
 do.devicecheck=0
 do.modules=0
 do.systemless=1
@@ -17,7 +16,7 @@ device.name4=RMX2030
 device.name5=RMX1919
 device.name6=r5x
 device.name7=
-supported.versions=10-16
+supported.versions=10-17
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
